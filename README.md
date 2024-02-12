@@ -1,0 +1,1 @@
+Hi! My name is Klaiv Domi. I am a student recently graduated on Business Informatics (Bachelor of Science). Fields that interest me a lot are Machine Learning, Artificial Intelligence, Data Engineering and Data Science. Here you can find various Machine Learning personal projects.
